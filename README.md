@@ -47,13 +47,13 @@
 | Status | Priority | Park | Notes |
 |---|---|---|---|
 | [ ] | 2 | [Burnside](https://diyskateparks.net/park/burnside) | Redo it all bruh |
-| [ ] | 2 | [Washington st](https://diyskateparks.net/park/washingtonst) | Corner by the entrance is fucked. Need to fill in blank space and stretch /smooth out existing geometries. Very fixable |
-| [ ] | 2 | [Marginal way](https://diyskateparks.net/park/marginalway) | Close holes in pillars , missing portion next to the one pillar, close hole in full pipe sphere thing, close hole in halfpipe by train tracks outside of park |
+| [ ] | 2 | [Washington st](https://diyskateparks.net/park/washingtonst) | Corner by the entrance is fucked. Need to fill in blank space and stretch /smooth out existing geometries. |
+| [ ] | 2 | [Marginal way](https://diyskateparks.net/park/marginalway) | * Close holes in pillars <br> * Missing portion next to the one pillar <br> * Close hole in full pipe sphere thing <br> * Close hole in halfpipe by train tracks outside of park |
 | [ ] | 2 | [The spot](https://diyskateparks.net/park/thespot) | Weird shadow things creating humps. Probably just need to re-export. |
 | [ ] | 2 | [Sneath](https://diyskateparks.net/park/sneath) | Area off to the side next to the bricks is weird. Maybe remove? |
-| [ ] | 2 | [Marshfield Cts](https://diyskateparks.net/park/marshfieldcourts) | * Area behind the long quarter is blank, fill in. * Long bank to curb is messed up, make sure its one long line |
+| [ ] | 2 | [Marshfield Cts](https://diyskateparks.net/park/marshfieldcourts) | * Area behind the long quarter is blank, fill in. <br> * Long bank to curb is messed up, make sure its one long line |
 | [ ] | 2 | [Edgewood](https://diyskateparks.net/park/edgewood) | Smooth ground.. file is way too big, why? This should be one of those 2mb files. Maybe exporting webps to 512x512 on gltf.report? |
-| [ ] | 2 | [11th st](https://diyskateparks.net/park/11thst) | * Ground could use some smoothing * Make the height of the pillars consistent |
+| [ ] | 2 | [11th st](https://diyskateparks.net/park/11thst) | * Ground could use some smoothing <br> * Make the height of the pillars consistent |
 | [ ] | 2 | [Longacres](https://diyskateparks.net/park/longacres) | Smooth |
 
 ---
