@@ -29,15 +29,13 @@
 
 | Status | Priority | Task | Details |
 |---|---|---|---|
-| [ ] | 2 | Loading needs to happen immediately | When we load the page other shit happens first and the loading doesn't immediately start. This slows down the whole site |
-| [ ] | 3 | Load placeholder | The site is completely not functional while loading another park. We should let the user maybe look at the existing park and tell them when the new park loads? Too many loading screens bruh |
+| [ ] | 3 | placeholder |  |
 
 ---
 
 ## 3D Models to Add
 
 * Super ditch, OKC
-* Slab city, CA
 * Bombay beach, CA
 
 ---
@@ -46,7 +44,6 @@
 
 | Status | Priority | Park | Notes |
 |---|---|---|---|
-| [ ] | 2 | [Burnside](https://diyskateparks.net/park/burnside) | Redo it all bruh |
 | [ ] | 2 | [Washington st](https://diyskateparks.net/park/washingtonst) | Corner by the entrance is fucked. Need to fill in blank space and stretch /smooth out existing geometries. |
 | [ ] | 2 | [Marginal way](https://diyskateparks.net/park/marginalway) | * Close holes in pillars <br> * Missing portion next to the one pillar <br> * Close hole in full pipe sphere thing <br> * Close hole in halfpipe by train tracks outside of park |
 | [ ] | 2 | [The spot](https://diyskateparks.net/park/thespot) | Weird shadow things creating humps. Probably just need to re-export. |
