@@ -35,8 +35,7 @@
 
 ## 3D Models to Add
 
-* Super ditch, OKC
-* Bombay beach, CA
+* CRUSTY GUY IN SOUTHERN WA
 
 ---
 
